@@ -15,5 +15,15 @@ hr{
 h1,h3{
     color: #16817a;
 }
- 
 
+.pos{
+    padding-left: 30px;
+}
+
+.dis{
+    display: inline;
+}
+
+.proj{
+    margin-left: 400px;
+}
